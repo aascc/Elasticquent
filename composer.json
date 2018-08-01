@@ -37,4 +37,6 @@
       "dev-master": "1.0-dev"
     }
   }
+  ,
+  "version": "dev-master",
 }
